@@ -1,0 +1,21 @@
+.header {
+  background-color: #1c2b35;
+  padding: 15px 0px;
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}

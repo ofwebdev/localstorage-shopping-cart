@@ -1,0 +1,7 @@
+.sticky-cart {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
